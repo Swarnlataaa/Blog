@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Next Time?"
-date:   2022-12-05 12:23:45 +0530
-categories: jekyll update
----

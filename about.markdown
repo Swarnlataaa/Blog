@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 --- 
 
-Shoot your query /concern/idea/data at: 
-`swarnlatamazing@gmail.com` 
+- `Hey! I am a human , mostly intrigued by happenings around me.`
+- Shoot your query /concern/idea/data at: 
+`swarnlataaa@gmail.com` 
