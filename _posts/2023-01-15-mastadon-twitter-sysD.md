@@ -98,3 +98,15 @@ Social media platforms play a pivotal role in connecting people worldwide. Howev
 
 In conclusion, the architecture of a social media platform significantly influences the user experience. Whether centralized or decentralized, each model comes with its own set of advantages and trade-offs. Users must consider factors such as data control, moderation policies, and community dynamics when choosing their online social hubs.
 
+
+graph TD;
+  A[User Profiles] -->|Federated Architecture| B(Multiple Instances)
+  C[Toots (Posts)] -->|Federated Architecture| B
+  D[Interactions] -->|Federated Architecture| B
+  E[Followers and Following] -->|Federated Architecture| B
+  F[Media Storage] -->|Federated Architecture| B
+  G[Notifications] -->|Federated Architecture| B
+  H[User Preferences] -->|Federated Architecture| B
+  I[Analytics and Metrics] -->|Federated Architecture| B
+
+
